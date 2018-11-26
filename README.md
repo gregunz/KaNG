@@ -1,4 +1,5 @@
-# LauzHack2018
+# LauzHack2018 
+### Project submission available on [devpost](https://devpost.com/software/kang)
 
 ## Inspiration
 There is a lot of suspicious financial activity happening every day. These suspicious transactions are used for different activities like money laundering, funding terrorism, etc. Banks need to investigate both for the greater good and also for compliance reasons. Due to the high volume of transactions, it is hard to do these investigations manually. So, we need a better & automated way to identify the limited suspicious activities which can then be investigated by human operators.
@@ -31,3 +32,5 @@ We built a machine learning model based on the dataset provided by CreditSuisse 
 
 ## What's next for KaNG
 * Run our model in production at scale on the CreditSuisse production environment!
+
+
