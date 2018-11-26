@@ -1,4 +1,4 @@
-# LauzHack2018 
+# KaNG @ [LauzHack 2018](http://lauzhack.com/)
 ### Project submission available on [devpost](https://devpost.com/software/kang)
 
 ## Inspiration
