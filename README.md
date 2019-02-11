@@ -20,7 +20,7 @@ We built a machine learning model based on the dataset provided by CreditSuisse 
 * The PEGA platform for training the models was not meant for the production loads which caused some issues for the PEGA team as well. 
 
 ## What we tried that did not work
-* We tried to make use of auto-encoder to learn about the representation of non-suspicious accounts. This would provide a way to distinguish them from the suspicious accounts. Unfortunately, in the end it took long time to train and did not give great results.
+* We tried to make use of auto-encoder to learn about the representation of non-suspicious accounts. This would provide a way to distinguish them from the suspicious accounts. Unfortunately, in the end it took long time to train and did not give great results. ([Few Slides about it](https://goo.gl/7tTSgF))
 
 ## Accomplishments that we're proud of
 * We managed to learn how to run machine learning models on imbalanced datasets after reading the different state of the art research papers.
